@@ -126,7 +126,8 @@ Then, run the system in the same way as mentioned above. Click on the <b>Run Usi
 <img src = "https://user-images.githubusercontent.com/35571958/88624933-7b0ff700-d0c5-11ea-87da-3f6bf1516cc3.png">
 
 Also, in order to toggle between the front and back camera, type the IP upto "http://<YOUR_IP_HERE>" in the search bar of yor browser and explore the page which will look like this: <br>
-<img src = "https://user-images.githubusercontent.com/35571958/88626505-5f5a2000-d0c8-11ea-88f0-e1d4481eb9d9.png">
+![ip webcam](https://github.com/shraddha7402/DrowsyAlertHub.github.io/assets/63406385/b46be7ba-bc2f-43f3-840b-4015c019af6f)
+
 
 Also, we have tried plotting the MAR and EAR graph Vs. Time in order to make the working clearer to the audience. The graph looks like: <br> 
 <img src = "https://user-images.githubusercontent.com/35571958/88627012-42721c80-d0c9-11ea-860a-51b7a1f2961b.png">
